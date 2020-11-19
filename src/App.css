@@ -1,0 +1,13 @@
+.container {
+    margin-top: 50px;
+}
+.row {
+    justify-content: center;
+}
+.read {
+    color: red;
+}
+
+.write {
+    color: green;
+}

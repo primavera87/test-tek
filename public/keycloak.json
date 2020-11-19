@@ -1,0 +1,9 @@
+{
+  "realm": "testRealm",
+  "auth-server-url": "https://84.201.176.223:8443/auth",
+  "ssl-required": "all",
+  "resource": "test",
+  "public-client": true,
+  "use-resource-role-mappings": true,
+  "confidential-port": 0
+}
